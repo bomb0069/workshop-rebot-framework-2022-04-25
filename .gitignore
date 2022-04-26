@@ -1,0 +1,7 @@
+/pabot_results
+*.html
+*.xml
+.pabotsuitenames
+
+*.png
+*.jpg
